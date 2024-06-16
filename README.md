@@ -9,7 +9,7 @@
 * Verify your Minecraft license and
 * Fill out the Minecraft survey
 
-## Your accounts and passwords are your responisbility, please keep them secure by never sharing your login information and by logging out of all applications at the end of classroom time
+## Your accounts and passwords are your responsability, please keep them secure by never sharing your login information and by logging out of all applications at the end of classroom time
 
 ## There will be a few other accounts you might need during camp, we will address those during classroom time
 
