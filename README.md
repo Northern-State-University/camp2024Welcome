@@ -42,7 +42,7 @@
 
 ### Minecraft survey:
 1. Fill out the survey here:
-2. Show the peer mentor that you have successfully
+2. Show the peer mentor that you have successfully filled it out
 
 # ⚠️ Please log out of everything before walking away from the computer!
 
