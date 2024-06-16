@@ -40,10 +40,10 @@
 2. Open Minecraft in the toolbar below. Log in and reset your password. REMEMBER THIS USERNAME and PASSWORD or WRITE IT DOWN
 3. Show the peer mentor that you have successfully logged in.
 
-# ⚠️ Please log out of everything before walking away from the computer!
-
 ### Minecraft survey:
 1. Fill out the survey here:
 2. Show the peer mentor that you have successfully
+
+# ⚠️ Please log out of everything before walking away from the computer!
 
 ### You're done. Any questions, please ask!
