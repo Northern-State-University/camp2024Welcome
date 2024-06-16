@@ -10,6 +10,9 @@
 
 ## There will be a few other accounts you might need during camp, we will address those during classroom time
 
+## Wait, you didn't come to camp with access to an email address???
+* Gmail (https://mail.google.com/)
+
 ### Adobe Creative Cloud:
 1. Please log in to your email
 2. If you cannot find the email from Adobe for your account set up then:
