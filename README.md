@@ -8,6 +8,8 @@
 * Verify your Minecraft license and
 * Fill out the Minecraft survey
 
+## Your accounts and passwords are your responisbility, please keep them secure by never sharing your login information and by logging out of all applications at the end of classroom time
+
 ## There will be a few other accounts you might need during camp, we will address those during classroom time
 
 ## Wait, you didn't come to camp with access to an email address???
@@ -37,6 +39,8 @@
 1. Once you've done all of the above, see Joshua and he will issue you a Minecraft license
 2. Open Minecraft in the toolbar below. Log in and reset your password. REMEMBER THIS USERNAME and PASSWORD or WRITE IT DOWN
 3. Show the peer mentor that you have successfully logged in.
+
+# ⚠️ Please log out of everything before walking away from the computer!
 
 ### Minecraft survey:
 1. Fill out the survey here:
