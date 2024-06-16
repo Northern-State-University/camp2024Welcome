@@ -2,6 +2,7 @@
 
 ## Now is the time to begin verifying all your accounts. Please follow each step below and verify that you have access to each one of your accounts including
 * Access to your own email
+* Access to GitHub
 * Access/verify to your Adobe Creative Cloud account
 * Access/verify to your Postman account
 * Access/verify to your ChatGPT account
@@ -14,6 +15,11 @@
 
 ## Wait, you didn't come to camp with access to an email address???
 * Gmail (https://mail.google.com/)
+
+### GITHUB access:
+1. You're already here
+2. Create an account REMEMBER THIS PASSWORD or WRITE IT DOWN
+3. This is where you'll store anything digitally from camp, whether that be code, imagse/videos or anything else.
 
 ### Adobe Creative Cloud:
 1. Please log in to your email
