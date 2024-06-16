@@ -18,8 +18,9 @@
 
 ### GITHUB access:
 1. You're already here
-2. Create an account REMEMBER THIS PASSWORD or WRITE IT DOWN
-3. This is where you'll store anything digitally from camp, whether that be code, imagse/videos or anything else.
+2. Top right hand corner, click Sign Up (https://github.com/signup)
+3. Create an account REMEMBER THIS PASSWORD or WRITE IT DOWN
+4. This is where you'll store anything digitally from camp, whether that be code, imagse/videos or anything else.
 
 ### Adobe Creative Cloud:
 1. Please log in to your email
