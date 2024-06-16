@@ -48,7 +48,7 @@
 3. Show the peer mentor that you have successfully logged in.
 
 ### Minecraft survey:
-1. Fill out the survey here:
+1. Fill out the survey here: (https://bit.ly/3yfm8QW)
 2. Show the peer mentor that you have successfully filled it out
 
 # ⚠️ Please log out of everything before walking away from the computer!
